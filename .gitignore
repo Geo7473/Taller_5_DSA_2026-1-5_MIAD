@@ -1,0 +1,7 @@
+.tox/
+build/
+dist/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+package-src/model/trained/*.pkl
